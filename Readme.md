@@ -86,7 +86,7 @@ FROM utilisateur;
 
 ![Capture MySQL](capture_select_utilisateur.png)
 
-> L’image doit être dans le même dossier que ce README pour s’afficher correctement.
+
 
 ---
 
